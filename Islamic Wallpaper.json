@@ -1,0 +1,884 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Islamic",
+      "wallpaper_url": "https://i.pinimg.com/564x/78/96/75/78967514334c39df2c359fd16976a7f8.jpg"
+    }
+    
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/48/9f/b1/489fb160b45ee1a714673198370625f5.jpg"
+    },
+	{
+      "id": 2,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/8f/27/9a/8f279ad3c55510159adff40f113d8747.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/78/96/75/78967514334c39df2c359fd16976a7f8.jpg"
+    },
+	{
+      "id": 4,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/16/28/58/162858507e6370f09190a6bc543f5be4.jpg"
+    },
+	{
+      "id": 5,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/58/92/38/5892383e08ea456cf444da0ed35d4b2e.jpg"
+    },
+	{
+      "id": 6,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e5/f3/9d/e5f39d7bf17b7b5aeb6ce9a6d0f824d0.jpg"
+    },
+	{
+      "id": 7,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/83/9c/3a839ca342feaeef48d781ab9f75cc58.jpg"
+    },
+	{
+      "id": 8,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c6/72/ea/c672ea15325d94956a56121ac4443477.jpg"
+    },
+	{
+      "id": 9,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/bd/34/f9/bd34f9ff842329b5acea7e9059335635.jpg"
+    },
+	{
+      "id": 10,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/15/6e/02/156e0274b0791fcd931770bae4a836eb.jpg"
+    },
+	{
+      "id": 11,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/45/c2/c6/45c2c696f1b6b0b9be81bb93689c9f38.jpg"
+    },
+	{
+      "id": 12,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/c2/7c/55/c27c555856ce8c814fed012464f0cd16.jpg"
+    },
+	{
+      "id": 13,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/40/ed/7a40eda625e27a9ef89d1144b890a0ab.jpg"
+    },
+	{
+      "id": 14,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d4/74/2c/d4742cf70454fb5d31ad92ad48f027d2.jpg"
+    },
+	{
+      "id": 15,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/a7/51/96/a75196f6fcf1ac0c7bbdd43d986d8251.jpg"
+    },
+	{
+      "id": 16,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/89/2b/41/892b417fe4f2cad51d3d58340da4b7dd.jpg"
+    },
+	{
+      "id": 17,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d9/54/9f/d9549f913c5c661b5840f199cab604e9.jpg"
+    },
+	{
+      "id": 18,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e2/76/d2/e276d2af0f04dfe2e4c1db92e0087c1f.jpg"
+    },
+	{
+      "id": 19,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f9/5c/c3/f95cc3613409c553c91998df3cd9db8e.jpg"
+    },
+	{
+      "id": 20,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/84/5b/73/845b73974a6cb8e630b3814f0a301619.jpg"
+    },
+	{
+      "id": 21,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7d/33/4b/7d334b2f8a476d601c1437760f534577.jpg"
+    },
+	{
+      "id": 22,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/36/0c/e2/360ce25a99ef231d7680082a7677aeaa.jpg"
+    },
+	{
+      "id": 23,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a8/0e/14/a80e142d377eed5ac345f6ba17ed2c81.jpg"
+    },
+	{
+      "id": 24,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/00/a9/3d/00a93d9892ee3a9a5a57a823e3f5ac37.jpg"
+    },
+	{
+      "id": 25,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6f/6c/83/6f6c83d0e5d9c76aba83bf8b9cff971d.jpg"
+    },
+	{
+      "id": 26,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ec/05/06/ec05065b078d7a3b62629a67c76c1183.jpg"
+    },
+	{
+      "id": 27,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/26/7d/e6/267de6d398ac8dba19d461e623c0fbec.jpg"
+    },
+	{
+      "id": 28,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/94/f7/00/94f700c4d0a6f7ecdeb020ae99907040.jpg"
+    },
+	{
+      "id": 29,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/57/37/a5/5737a5001b0a5b563adbcef915acc860.jpg"
+    },
+	{
+      "id": 30,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2a/c0/d8/2ac0d8492f229af8f93da11c50c0180f.jpg"
+    },
+	{
+      "id": 31,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/04/e8/f3/04e8f3272e1656e99c06e6b2e0558682.jpg"
+    },
+	{
+      "id": 32,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/06/be/95/06be95d4bc2e42070cee5bbded47c95c.jpg"
+    },
+	{
+      "id": 33,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/de/8a/3ade8a64619de1cfc6c2e2461d7fa4a6.jpg"
+    },
+	{
+      "id": 34,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/57/85/16/5785165dae3fc18fa64cadc4f6ad9512.jpg"
+    },
+	{
+      "id": 35,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/68/ba/c9/68bac9fa01f27d9abff93b577f7e0a90.jpg"
+    },
+	{
+      "id": 36,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/43/8d/4c/438d4c5f0415df5690a5bbfcb4e09a54.jpg"
+    },
+	{
+      "id": 37,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/51/0b/cc/510bcc1a9ade256b62e9ef01b53fa7bd.jpg"
+    },
+	{
+      "id": 38,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/0e/0e/47/0e0e47e840dafa23a8e1bfaad76f05fd.jpg"
+    },
+	{
+      "id": 39,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/82/0c/e9820c694f0920c1a060a7f149cbcc92.jpg"
+    },
+	{
+      "id": 40,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f3/50/56/f35056ddbbc6498f66bf9b41e42fc665.jpg"
+    },
+	{
+      "id": 41,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/e3/40/c2e340d04c84d3ed326e4037d51fc66d.jpg"
+    },
+	{
+      "id": 42,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a6/ab/a0/a6aba08efb5ab95a71fb2ed53a9a63b4.jpg"
+    },
+	{
+      "id": 43,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/1b/67/3a1b6797f7deb24d0019da83cfeb7b1e.jpg"
+    },
+	{
+      "id": 44,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/4d/0d/74/4d0d748d3256ad7ee2c060339d918f58.jpg"
+    },
+	{
+      "id": 45,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/9b/aa/97/9baa979a72b7c2ea7daa6d2f3c97a42c.jpg"
+    },
+	{
+      "id": 46,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/82/6a/90/826a906674ece7ab309860b2089699d2.jpg"
+    },
+	{
+      "id": 47,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/95/c9/68/95c968fd4eb2bbc58f506f16c5ddb1b3.jpg"
+    },
+	{
+      "id": 48,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/68/3c/a3/683ca3c409a5cd0dfdf1b6a1a19c61f5.jpg"
+    },
+	{
+      "id": 49,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/62/b3/05/62b305e77340175df1e616c2ee4077d4.jpg"
+    },
+	{
+      "id": 50,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/8a/c4/26/8ac4263f3c0ca4dd28feb509892d34a9.jpg"
+    },
+	{
+      "id": 51,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG51",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/5a/54/0b/5a540bf3a557adc1a9f53b7fe8879a3a.jpg"
+    },
+	{
+      "id": 52,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG52",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/81/8a/4e/818a4ee7ad42253b8dedf80af0533b1e.jpg"
+    },
+	{
+      "id": 53,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG53",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/a8/a2/b5/a8a2b5427abc32e49513689d04828800.jpg"
+    },
+	{
+      "id": 54,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG54",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/93/60/7e/93607e2280117fd29c3fd65d56debe3b.jpg"
+    },
+	{
+      "id": 55,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG55",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/19/5b/91/195b91170194b5b386f32e1aed9a5164.jpg"
+    },
+	{
+      "id": 56,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG56",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f2/1c/00/f21c0041c5ed898047fa39eecc53b0b9.jpg"
+    },
+	{
+      "id": 57,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG57",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/9e/7d/b9/9e7db95ad23411484cee748918f3885f.jpg"
+    },
+	{
+      "id": 58,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG58",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/f0/18/1f/f0181f244b383b6d07a19d7c11d1f97e.jpg"
+    },
+	{
+      "id": 59,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG59",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/55/29/ec/5529ec4687e569546253baa7f858e8c2.jpg"
+    },
+	{
+      "id": 60,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG60",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e4/40/f4/e440f46b5813a7f8feaf9e76a7c40fcd.jpg"
+    },
+	{
+      "id": 61,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG61",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/23/f7/29/23f72928ac17a823e221e34756a0449f.jpg"
+    },
+	{
+      "id": 62,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG62",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/92/4b/c3/924bc398bec0ee40d71d0cd8811137c5.jpg"
+    },
+	{
+      "id": 63,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG63",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7e/fc/ba/7efcba79072dee4b83358d0b87fa21f1.jpg"
+    },
+	{
+      "id": 64,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG64",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/9b/cc/4f/9bcc4fc944f1798ce8d6e306fc938ef6.jpg"
+    },
+	{
+      "id": 65,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG65",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ca/cc/21/cacc2163c6a3fee7738954f7fa10062c.jpg"
+    },
+	{
+      "id": 66,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG66",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ca/6a/f7/ca6af71ef542f1468b4c598205255bb3.jpg"
+    },
+	{
+      "id": 67,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG67",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/88/f1/16/88f116b9725b965546de1f0ff26b9e80.jpg"
+    },
+	{
+      "id": 68,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG68",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/8b/33/5d/8b335d75e73d4624bbdc64e370e97662.jpg"
+    },
+	{
+      "id": 69,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG69",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/35/10/59/351059fd3924487195543616173e5ff2.jpg"
+    },
+	{
+      "id": 70,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG70",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/0f/5c/a7/0f5ca742d7ddc63b6225d5efd2f3c5f3.jpg"
+    },
+	{
+      "id": 71,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG71",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/c5/d7/8c/c5d78c6af85728e5a79a9797640b4083.jpg"
+    },
+	{
+      "id": 72,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG72",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/50/cd/ca/50cdca0c59985a9b13b027e37f241276.jpg"
+    },
+	{
+      "id": 73,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG73",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/53/9a/14/539a1490471290717031ee80b3c23e3d.jpg"
+    },
+	{
+      "id": 74,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG74",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/46/43/8d/46438da88f2af02e6572d3356015279a.jpg"
+    },
+	{
+      "id": 75,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG75",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/54/3f/07/543f076624e4102f75de37f25ad625b8.jpg"
+    },
+	{
+      "id": 76,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG76",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e4/70/e0/e470e0546e5c3d592d69cd226e3e29fc.jpg"
+    },
+	{
+      "id": 77,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG77",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/06/20/ad/0620adeae97c4f7f46dfe52ed2f63687.jpg"
+    },
+	{
+      "id": 78,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG78",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/1d/7e/69/1d7e69b37c912fc047fdf2b6e4317cd3.jpg"
+    },
+	{
+      "id": 79,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG79",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/c8/e5/6cc8e51574882e0226d2bb2aaf08cee5.jpg"
+    },
+	{
+      "id": 80,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG80",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/72/31/db/7231dbf171c123537221ccaf730d88ec.jpg"
+    },
+	{
+      "id": 81,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG81",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/1a/7d/10/1a7d106281fdb53b2cfce00f58705ad9.jpg"
+    },
+	{
+      "id": 82,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG82",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/b0/01/fa/b001fa574ef76c908362562ca62bd61b.jpg"
+    },
+	{
+      "id": 83,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG83",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6a/b2/ff/6ab2fff4268f8152d7cec856c63f0c3e.jpg"
+    },
+	{
+      "id": 84,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG84",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/f9/17/c5/f917c54a42bc77056a0ec2c244461cb0.jpg"
+    },
+	{
+      "id": 85,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG85",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/09/82/8f/09828ff56c6f007136623d6da5826bf9.jpg"
+    },
+	{
+      "id": 86,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG86",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/47/9b/0e/479b0e5409e52685d040c9f399513820.jpg"
+    },
+	{
+      "id": 87,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG87",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/86/01/48/8601486a23e9bae2affcc7fc63f798bc.jpg"
+    },
+	{
+      "id": 88,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG88",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ee/ad/97/eead974adbac79eabd2e140129cc9787.jpg"
+    },
+	{
+      "id": 89,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG89",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/9b/ad/4b/9bad4b1f7e62fdd5688ead79a0b74189.jpg"
+    },
+	{
+      "id": 90,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG90",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/27/91/57/27915768d09067b3412140b7024ef310.jpg"
+    },
+	{
+      "id": 91,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG91",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/10/61/f9/1061f90cc8303f27816160d57df87a4c.jpg"
+    },
+	{
+      "id": 92,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG92",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a1/27/8d/a1278d345982da1972aa6ccf1a870007.jpg"
+    },
+	{
+      "id": 93,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG93",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/42/89/fd/4289fdc9e4d64deab9ef22c412ddb6e4.jpg"
+    },
+	{
+      "id": 94,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG94",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/db/d9/25/dbd925fa819302e7a301e3792ba85892.jpg"
+    },
+	{
+      "id": 95,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG95",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/26/7f/80/267f80662292204be2e9b43e746f3c22.jpg"
+    },
+	{
+      "id": 96,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG96",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6b/f5/4d/6bf54d42e0b223ad6c90b850d0207553.jpg"
+    },
+	{
+      "id": 97,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG97",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/13/aa/fb/13aafb333794b9df307e6bd5e7a82bbc.jpg"
+    },
+	{
+      "id": 98,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG98",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/40/9f/c2409f651ee25b831accaa8236e164d9.jpg"
+    },
+	{
+      "id": 99,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG99",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ba/f6/f4/baf6f4f5e76ede135201a5a27deda30c.jpg"
+    },
+	{
+      "id": 100,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG100",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ab/4b/df/ab4bdf776d9e2172f1d228b5f0c8a2f5.jpg"
+    },
+	{
+      "id": 101,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG101",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/a0/21/c2a021d8b94c041a068cf3e8f789a062.jpg"
+    },
+	{
+      "id": 102,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG102",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b9/4d/36/b94d366fcbe8e94a5ea6736d2ee3589b.jpg"
+    },
+	{
+      "id": 103,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG103",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/21/ce/c021ce8cb6e917c658366ff734768eac.jpg"
+    },
+	{
+      "id": 104,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG104",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ae/33/e4/ae33e465676524e977708b727ad72342.jpg"
+    },
+	{
+      "id": 105,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG105",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/3b/a3/59/3ba35997a532fb990f2ded6edef37325.jpg"
+    },
+	{
+      "id": 106,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG106",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/94/d3/a8/94d3a8259b72b099f8e8280a34f67c63.jpg"
+    },
+	{
+      "id": 107,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG107",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/35/e8/a6/35e8a606bc8f691968d07a1711b82307.jpg"
+    },
+	{
+      "id": 108,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG108",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6d/fb/59/6dfb59346944cddf2e5deeae7ca19f02.jpg"
+    },
+	{
+      "id": 109,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG109",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/6b/eb/fc/6bebfcf6fb270d33287ff181007b53ef.jpg"
+    },
+	{
+      "id": 110,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG110",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2d/37/ea/2d37ea2baad2e805b090f73a52deef0c.jpg"
+    },
+	{
+      "id": 111,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG111",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/80/1d/b3/801db309f872bb5f7c4c0af21c07cf78.jpg"
+    },
+	{
+      "id": 112,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG112",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/c6/8f/af/c68faf6908a9b9545618b94c5dc5de90.jpg"
+    },
+	{
+      "id": 113,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG113",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/78/56/8d/78568d335e90a91c5aea4d104d6561c6.jpg"
+    },
+	{
+      "id": 114,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG114",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/25/fc/40/25fc402048f9ee80f1d4a8d33f36c06d.jpg"
+    },
+	{
+      "id": 115,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG115",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/78/eb/9f/78eb9f4f93474f41b09ea5abe157d2c6.jpg"
+    },
+	{
+      "id": 116,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG116",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/53/73/c6/5373c664252ab63b4200f464648a3267.jpg"
+    },
+	{
+      "id": 117,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG117",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/3c/b7/bb/3cb7bbff253f96cd864b9c99c09080dd.jpg"
+    },
+	{
+      "id": 118,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG118",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/60/c4/54/60c454ca8a95b921be842821e4800a8d.jpg"
+    },
+	{
+      "id": 119,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG119",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6d/9e/9e/6d9e9ed88181f9afcdde4eddced56001.jpg"
+    },
+	{
+      "id": 120,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG120",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b5/fb/3e/b5fb3ec8e9d3818872b8b019185d1309.jpg"
+    },
+	{
+      "id": 121,
+      "name_category": "Islamic",
+      "wallpaper_name": "RBG121",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/fb/a3/3afba327ce4b4d9daa4abbb2fed60033.jpg"
+    }
+  ]
+}
